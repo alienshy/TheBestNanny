@@ -1,0 +1,854 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  width: 100%;
+  height: 900px;
+  background-image: url("https://mobirise.com/extensions/glassm5/photo/assets/images/background4.jpg");
+}
+section .container {
+  margin: auto;
+  padding: 0px 32px;
+  max-width: 1400px;
+}
+section .container .con1 {
+  position: relative;
+  top: 100px;
+  width: 100%;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+}
+section .container .con1 .div1 {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  position: relative;
+  gap: 30px;
+}
+section .container .con1 .div1 h3 {
+  font-family: "Lexend", sans-serif;
+  color: #263d5a;
+  line-height: 1.5;
+  font-size: 1.6rem;
+}
+section .container .con1 .div1 h1 {
+  color: #263d5a;
+  font-size: 2.5rem;
+  font-family: "Roboto Slab", serif;
+}
+section .container .con1 .div2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 600px;
+}
+section .container .con1 .div2 .a {
+  width: 30%;
+  height: 450px;
+  border-radius: 30px;
+  padding: 40px;
+  background-color: rgba(255, 255, 255, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+section .container .con1 .div2 .a h1 {
+  position: relative;
+  bottom: 30px;
+  color: #263d5a;
+  font-size: 3.52rem;
+  font-family: "Roboto Slab", serif;
+}
+section .container .con1 .div2 .a h2 {
+  position: relative;
+  bottom: 30px;
+  color: #263d5a;
+  font-size: 2.3rem;
+  font-family: "Roboto Slab", serif;
+}
+section .container .con1 .div2 .a p {
+  font-family: "Playpen Sans", cursive;
+  position: relative;
+  bottom: 30px;
+  color: #263d5a;
+  font-size: 1rem;
+}
+section .container .con1 .div2 .a button {
+  background-color: #a148ff !important;
+  background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+  border: none;
+  transition: all 0.3s;
+  height: 70px;
+  width: 200px;
+  border: none;
+  border-radius: 40px;
+  font-size: 20px;
+  font-family: "Playpen Sans", cursive;
+  color: white;
+}
+section .container .con1 .div2 .b {
+  width: 30%;
+  height: 450px;
+  border-radius: 30px;
+  padding: 40px;
+  background-color: rgba(255, 255, 255, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+section .container .con1 .div2 .b h1 {
+  position: relative;
+  bottom: 30px;
+  color: #263d5a;
+  font-size: 3.52rem;
+  font-family: "Roboto Slab", serif;
+}
+section .container .con1 .div2 .b h2 {
+  position: relative;
+  bottom: 30px;
+  color: #263d5a;
+  font-size: 2.3rem;
+  font-family: "Roboto Slab", serif;
+}
+section .container .con1 .div2 .b p {
+  font-family: "Playpen Sans", cursive;
+  position: relative;
+  bottom: 30px;
+  color: #263d5a;
+  font-size: 1rem;
+}
+section .container .con1 .div2 .b button {
+  background-color: #a148ff !important;
+  background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+  border: none;
+  transition: all 0.3s;
+  height: 70px;
+  width: 200px;
+  border: none;
+  border-radius: 40px;
+  font-size: 20px;
+  font-family: "Playpen Sans", cursive;
+  color: white;
+}
+section .container .con1 .div2 .c {
+  width: 30%;
+  height: 450px;
+  border-radius: 30px;
+  padding: 40px;
+  background-color: rgba(255, 255, 255, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+section .container .con1 .div2 .c h1 {
+  position: relative;
+  bottom: 30px;
+  color: #263d5a;
+  font-size: 3.52rem;
+  font-family: "Roboto Slab", serif;
+}
+section .container .con1 .div2 .c h2 {
+  position: relative;
+  bottom: 30px;
+  color: #263d5a;
+  font-size: 2.3rem;
+  font-family: "Roboto Slab", serif;
+}
+section .container .con1 .div2 .c p {
+  font-family: "Playpen Sans", cursive;
+  position: relative;
+  bottom: 30px;
+  color: #263d5a;
+  font-size: 1rem;
+}
+section .container .con1 .div2 .c button {
+  background-color: #a148ff !important;
+  background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+  border: none;
+  transition: all 0.3s;
+  height: 70px;
+  width: 200px;
+  border: none;
+  border-radius: 40px;
+  font-size: 20px;
+  font-family: "Playpen Sans", cursive;
+  color: white;
+}
+
+@media screen and (min-width: 767px) and (max-width: 1400px) {
+  section {
+    height: 1200px;
+    width: 100%;
+  }
+  section .container .con1 {
+    height: 1200px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  section .container .con1 .div1 {
+    width: 100%;
+    text-align: start;
+    display: flex;
+    align-items: flex-start;
+  }
+  section .container .con1 .div1 h1 {
+    font-size: 50px;
+    position: relative;
+    bottom: 40px;
+  }
+  section .container .con1 .div1 h3 {
+    font-size: 90px;
+  }
+  section .container .con1 .div2 {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 100%;
+    height: 900px;
+    gap: 20px;
+  }
+  section .container .con1 .div2 .a {
+    width: 70%;
+    height: 300px;
+  }
+  section .container .con1 .div2 .b {
+    height: 300px;
+    width: 70%;
+  }
+  section .container .con1 .div2 .c {
+    height: 300px;
+    width: 70%;
+  }
+}
+@media screen and (min-width: 319px) and (max-width: 768px) {
+  section {
+    height: 1300px;
+    width: 100%;
+  }
+  section .container .con1 {
+    height: 1300px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  section .container .con1 .div1 {
+    width: 100%;
+    text-align: start;
+    display: flex;
+    align-items: flex-start;
+  }
+  section .container .con1 .div1 h1 {
+    font-size: 30px;
+    position: relative;
+    bottom: 20px;
+  }
+  section .container .con1 .div1 h3 {
+    font-size: 40px;
+  }
+  section .container .con1 .div2 {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 100%;
+    height: 1100px;
+    gap: 20px;
+  }
+  section .container .con1 .div2 .a {
+    width: 100%;
+    height: 350px;
+  }
+  section .container .con1 .div2 .b {
+    height: 350px;
+    width: 100%;
+  }
+  section .container .con1 .div2 .c {
+    height: 350px;
+    width: 100%;
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  height: 1000px;
+  background-image: url("https://mobirise.com/extensions/glassm5/photo/assets/images/background1.jpg");
+}
+header .container {
+  margin: auto;
+  padding: 0px 32px;
+  max-width: 1400px;
+}
+header .container .con2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 1000px;
+}
+header .container .con2 .div0 {
+  background-color: rgba(255, 255, 255, 0.6);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 80%;
+  height: 800px;
+  border-radius: 40px;
+  gap: 10px;
+}
+header .container .con2 .div0 h3 {
+  position: relative;
+  top: 20px;
+  width: 100%;
+  height: 20px;
+  font-size: 30px;
+  text-align: center;
+  font-family: "Roboto Slab", serif;
+  color: #263d5a;
+}
+header .container .con2 .div0 .inout {
+  font-size: 19px;
+  padding: 10px;
+  border-radius: 10px;
+  height: 40px;
+  border: none;
+  width: 46%;
+  background-color: rgba(255, 255, 255, 0.4);
+}
+header .container .con2 .div0 .text {
+  padding: 20px;
+  font-size: 20px;
+  width: 90%;
+  border: none;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 0.4);
+}
+header .container .con2 .div0 button {
+  height: 50px;
+  width: 90%;
+  border: none;
+  border-radius: 30px;
+  font-family: "Roboto Slab", serif;
+  font-size: 20px;
+  background-color: #a148ff !important;
+  background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+  color: white;
+  transition: all 0.3s;
+}
+
+@media screen and (min-width: 319px) and (max-width: 768px) {
+  header {
+    height: 700px;
+    width: 100%;
+  }
+  header .container .con2 {
+    height: 700px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  header .container .con2 .div0 {
+    width: 100%;
+    height: 580px;
+  }
+  header .container .con2 .div0 h3 {
+    font-size: 20px;
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.orta {
+  width: 100%;
+  height: 700px;
+  background-image: url("https://mobirise.com/extensions/glassm5/photo/assets/images/background5.jpg");
+}
+.orta .container {
+  margin: auto;
+  padding: 0px 32px;
+  max-width: 1400px;
+}
+.orta .container .con45 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 700px;
+}
+.orta .container .con45 .divdi1 {
+  width: 30%;
+  height: 500px;
+  border-radius: 30px;
+}
+.orta .container .con45 .divdi1 img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 30px;
+}
+.orta .container .con45 .divdi2 {
+  background-color: rgba(255, 255, 255, 0.4);
+  position: relative;
+  top: 103px;
+  border-radius: 30px;
+  left: 40px;
+  width: 60%;
+  height: 300px;
+  padding: 40px;
+}
+.orta .container .con45 .divdi2 p {
+  font-family: "Playfair Display", serif;
+  font-size: 1.9rem;
+  color: #263d5a;
+}
+.orta .container .con45 .divdi2 h3 {
+  color: #263d5a;
+  font-size: 1.2rem;
+  font-family: "Roboto Slab", serif;
+}
+
+@media screen and (min-width: 767px) and (max-width: 1400px) {
+  .orta {
+    height: 1100px;
+    width: 100%;
+  }
+  .orta .container .con45 {
+    height: 1100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+  }
+  .orta .container .con45 .divdi1 {
+    width: 80%;
+    height: 600px;
+    position: absolute;
+    top: 450px;
+  }
+  .orta .container .con45 .divdi1 img {
+    width: 100%;
+    height: 100%;
+  }
+  .orta .container .con45 .divdi2 {
+    text-align: center;
+    width: 80%;
+    height: 300px;
+    gap: 20px;
+    position: absolute;
+    bottom: 10px;
+    left: 65px;
+  }
+}
+@media screen and (min-width: 319px) and (max-width: 768px) {
+  .orta {
+    height: 600px;
+    width: 100%;
+  }
+  .orta .container .con45 {
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  .orta .container .con45 .divdi1 {
+    flex-direction: column;
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    top: 10px;
+  }
+  .orta .container .con45 .divdi1 img {
+    width: 100%;
+    height: 100%;
+  }
+  .orta .container .con45 .divdi2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    top: 330px;
+    left: 0px;
+  }
+  .orta .container .con45 .divdi2 h3 {
+    font-size: 17px;
+  }
+  .orta .container .con45 .divdi2 p {
+    font-size: 14px;
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sistem {
+  width: 100%;
+  height: 700px;
+  background-color: #f2f6ff;
+}
+.sistem .container {
+  margin: auto;
+  padding: 0px 32px;
+  max-width: 1400px;
+}
+.sistem .container .con55 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 700px;
+  gap: 120px;
+}
+.sistem .container .con55 .divim1 {
+  width: 40%;
+  height: 400px;
+  border-radius: 30px;
+}
+.sistem .container .con55 .divim1 img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 30px;
+}
+.sistem .container .con55 .divim1 .divim11 {
+  padding: 20px 20px;
+  width: 290px;
+  height: 250px;
+  border-radius: 20px;
+  background-color: #45b3df;
+  position: relative;
+  left: 330px;
+  bottom: 180px;
+}
+.sistem .container .con55 .divim1 .divim11 .divim111 {
+  border: dashed;
+  border: 2px solid dashed;
+  border-color: white;
+  border-radius: 20px;
+  width: 250px;
+  color: white;
+  height: 210px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+}
+.sistem .container .con55 .divim1 .divim11 .divim111 h1 {
+  font-family: "Playpen Sans", cursive;
+}
+.sistem .container .con55 .divim1 .divim11 .divim111 h2 {
+  font-family: "Playpen Sans", cursive;
+  font-size: 19px;
+}
+.sistem .container .con55 .divim2 {
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 30px;
+  width: 40%;
+  height: 400px;
+  padding: 40px;
+}
+.sistem .container .con55 .divim2 h1.dd {
+  font-size: 40px;
+  font-family: "Playpen Sans", cursive;
+  color: #12265a;
+  background-size: 100% 0.521em;
+  display: inline;
+  margin: 0 -12px;
+  padding: 0 12px;
+  background-image: linear-gradient(to top, rgba(250, 157, 183, 0.5), rgba(250, 157, 183, 0.5));
+  background-repeat: no-repeat;
+  background-position: 0% 74%;
+}
+.sistem .container .con55 .divim2 h1.ss {
+  font-size: 40px;
+  font-family: "Playpen Sans", cursive;
+  color: #12265a;
+  background-size: 100% 0.521em;
+  display: inline;
+  margin: 0 -12px;
+  padding: 0 12px;
+  background-image: linear-gradient(to top, rgba(207, 183, 0, 0.5), rgba(207, 155, 0, 0.5));
+  background-repeat: no-repeat;
+  background-position: 0% 74%;
+}
+.sistem .container .con55 .divim2 p {
+  color: #263d5a;
+  font-size: 1.2rem;
+  font-family: "Playpen Sans", cursive;
+}
+.sistem .container .con55 .divim2 .er {
+  background-color: rgba(255, 166, 0, 0.7);
+  width: 40%;
+  height: 60px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 50px;
+  font-size: 20px;
+  color: white;
+}
+.sistem .container .con55 .divim2 .er .sdss {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: dashed;
+  border: 2px solid dashed;
+  color: white;
+  width: 100%;
+  height: 100%;
+  border-radius: 50px;
+  line-height: 1.7;
+  font-weight: 900;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+footer {
+  width: 100%;
+  height: 700px;
+  background: #ffffff;
+}
+footer .container {
+  margin: auto;
+  padding: 0px 32px;
+  max-width: 1400px;
+}
+footer .container .con66 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 700px;
+  gap: 120px;
+}
+footer .container .con66 .divim100 {
+  width: 30%;
+  height: 550px;
+  border-radius: 30px;
+}
+footer .container .con66 .divim100 img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 30px;
+}
+footer .container .con66 .divim100 .divim110 {
+  padding: 20px 20px;
+  width: 90%;
+  height: 530px;
+  border-radius: 20px;
+  background-color: #45b3df;
+  position: relative;
+  left: 270px;
+  bottom: 480px;
+}
+footer .container .con66 .divim100 .divim110 .divim1110 {
+  padding: 20px 0px;
+  align-items: center;
+  border: dashed;
+  border: 2px solid dashed;
+  border-color: white;
+  border-radius: 20px;
+  width: 100%;
+  color: white;
+  height: 490px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+footer .container .con66 .divim100 .divim110 .divim1110 .input {
+  font-size: 14px;
+  padding: 15px;
+  border-radius: 30px;
+  height: 40px;
+  border: none;
+  width: 70%;
+}
+footer .container .con66 .divim100 .divim110 .divim1110 .text {
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 30px;
+  height: 150px;
+  border: none;
+  width: 70%;
+}
+footer .container .con66 .divim100 .divim110 .divim1110 .er0 {
+  background-color: rgba(255, 204, 0, 0.8);
+  width: 70%;
+  height: 60px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 50px;
+  font-size: 20px;
+  color: white;
+}
+footer .container .con66 .divim100 .divim110 .divim1110 h1 {
+  font-family: "Playpen Sans", cursive;
+}
+footer .container .con66 .divim20 {
+  position: relative;
+  left: 150px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 30px;
+  width: 40%;
+  height: 400px;
+  padding: 40px;
+  bottom: 20px;
+}
+footer .container .con66 .divim20 h1.dd0 {
+  font-size: 40px;
+  font-family: "Playpen Sans", cursive;
+  color: #12265a;
+  background-size: 100% 0.521em;
+  display: inline;
+  margin: 0 -12px;
+  padding: 0 12px;
+  background-image: linear-gradient(to top, rgba(250, 157, 183, 0.5), rgba(250, 157, 183, 0.5));
+  background-repeat: no-repeat;
+  background-position: 0% 74%;
+}
+footer .container .con66 .divim20 h1.ss0 {
+  font-size: 40px;
+  font-family: "Playpen Sans", cursive;
+  color: #12265a;
+  background-size: 100% 0.521em;
+  display: inline;
+  margin: 0 -12px;
+  padding: 0 12px;
+  background-image: linear-gradient(to top, rgba(207, 183, 0, 0.5), rgba(207, 155, 0, 0.5));
+  background-repeat: no-repeat;
+  background-position: 0% 74%;
+}
+footer .container .con66 .divim20 p {
+  color: #263d5a;
+  font-size: 1.2rem;
+  font-family: "Playpen Sans", cursive;
+}
+footer .container .con66 .divim20 .fgh {
+  height: 200px;
+  gap: 18px;
+  width: 270px;
+  display: flex;
+  flex-wrap: wrap;
+}
+footer .container .con66 .divim20 .fgh i {
+  color: #45b3df;
+  font-size: 30px;
+}
+footer .container .con66 .divim20 .fgh h3 {
+  font-size: 30px;
+  font-family: "Playpen Sans", cursive;
+  color: #12265a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.finish {
+  width: 100%;
+  height: 700px;
+}
+.finish .container {
+  margin: auto;
+  padding: 0px 32px;
+  max-width: 1400px;
+}
+.finish .container .cono {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 700px;
+  background-color: #ffffff;
+}
+.finish .container .cono .divim01 {
+  width: 40%;
+  height: 500px;
+}
+.finish .container .cono .divim01 h1 {
+  position: relative;
+  bottom: 40px;
+  font-size: 60px;
+  font-family: "Playpen Sans", cursive;
+  color: #12265a;
+}
+.finish .container .cono .divim01 p {
+  position: relative;
+  bottom: 40px;
+  color: rgba(38, 61, 88, 0.5843137255);
+  font-weight: -100;
+  font-size: 1.2rem;
+  font-family: "Playpen Sans", cursive;
+}
+.finish .container .cono .divim01 .dash {
+  gap: 18px;
+  width: 59%;
+  height: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.finish .container .cono .divim01 .dash button {
+  height: 50px;
+  width: 50px;
+  border: none;
+  border-radius: 50%;
+}
+.finish .container .cono .divim01 .dash img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.finish .container .cono .divim01 .dash h2 {
+  font-size: 30px;
+  font-family: "Playpen Sans", cursive;
+  color: #12265a;
+}
+.finish .container .cono .divim02 {
+  width: 45%;
+  height: 550px;
+}
+.finish .container .cono .divim02 img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 30px;
+}/*# sourceMappingURL=main.css.map */

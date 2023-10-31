@@ -1,0 +1,337 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    width: 100%;
+    height: 900px;
+    background-image: url('https://mobirise.com/extensions/glassm5/photo/assets/images/background4.jpg');
+
+    .container {
+        margin: auto;
+        padding: 0px 32px;
+        max-width: 1400px;
+
+        .con1 {
+            position: relative;
+            top: 100px;
+            width: 100%;
+            height: 700px;
+            display: flex;
+            flex-direction: column;
+
+            .div1 {
+                width: 100%;
+                height: 100px;
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-end;
+                align-items: center;
+                position: relative;
+                // top: 50px;
+                gap: 30px;
+
+                h3 {
+                    font-family: 'Lexend', sans-serif;
+                    color: #263d5a;
+                    line-height: 1.5;
+                    font-size: 1.6rem;
+                }
+
+                h1 {
+                    color: #263d5a;
+                    font-size: 2.5rem;
+                    font-family: 'Roboto Slab', serif;
+                }
+            }
+
+            .div2 {
+                // position: relative;
+                // top: 50px;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                width: 100%;
+                height: 600px;
+
+                .a {
+                    width: 30%;
+                    height: 450px;
+                    border-radius: 30px;
+                    padding: 40px;
+                    background-color: rgba(255, 255, 255, 0.3);
+                    display: flex;
+                    justify-content: center;
+                    align-items: flex-start;
+                    flex-direction: column;
+
+                    h1 {
+                        position: relative;
+                        bottom: 30px;
+                        color: #263d5a;
+                        font-size: 3.52rem;
+                        font-family: 'Roboto Slab', serif;
+                    }
+
+                    h2 {
+                        position: relative;
+                        bottom: 30px;
+                        color: #263d5a;
+                        font-size: 2.3rem;
+                        font-family: 'Roboto Slab', serif;
+                    }
+
+                    p {
+                        font-family: 'Playpen Sans', cursive;
+                        position: relative;
+                        bottom: 30px;
+                        color: #263d5a;
+                        font-size: 1rem;
+                    }
+
+                    button {
+                        background-color: #a148ff !important;
+                        background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+                        border: none;
+                        transition: all 0.3s;
+                        height: 70px;
+                        width: 200px;
+                        border: none;
+                        border-radius: 40px;
+                        font-size: 20px;
+                        font-family: 'Playpen Sans', cursive;
+                        color: white;
+
+                    }
+                }
+
+                .b {
+                    width: 30%;
+                    height: 450px;
+                    border-radius: 30px;
+                    padding: 40px;
+                    background-color: rgba(255, 255, 255, 0.3);
+                    display: flex;
+                    justify-content: center;
+                    align-items: flex-start;
+                    flex-direction: column;
+
+                    h1 {
+                        position: relative;
+                        bottom: 30px;
+                        color: #263d5a;
+                        font-size: 3.52rem;
+                        font-family: 'Roboto Slab', serif;
+                    }
+
+                    h2 {
+                        position: relative;
+                        bottom: 30px;
+                        color: #263d5a;
+                        font-size: 2.3rem;
+                        font-family: 'Roboto Slab', serif;
+                    }
+
+                    p {
+                        font-family: 'Playpen Sans', cursive;
+                        position: relative;
+                        bottom: 30px;
+                        color: #263d5a;
+                        font-size: 1rem;
+                    }
+
+                    button {
+                        background-color: #a148ff !important;
+                        background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+                        border: none;
+                        transition: all 0.3s;
+                        height: 70px;
+                        width: 200px;
+                        border: none;
+                        border-radius: 40px;
+                        font-size: 20px;
+                        font-family: 'Playpen Sans', cursive;
+                        color: white;
+
+                    }
+
+                }
+
+                .c {
+                    width: 30%;
+                    height: 450px;
+                    border-radius: 30px;
+                    padding: 40px;
+                    background-color: rgba(255, 255, 255, 0.3);
+                    display: flex;
+                    justify-content: center;
+                    align-items: flex-start;
+                    flex-direction: column;
+
+                    h1 {
+                        position: relative;
+                        bottom: 30px;
+                        color: #263d5a;
+                        font-size: 3.52rem;
+                        font-family: 'Roboto Slab', serif;
+                    }
+
+                    h2 {
+                        position: relative;
+                        bottom: 30px;
+                        color: #263d5a;
+                        font-size: 2.3rem;
+                        font-family: 'Roboto Slab', serif;
+                    }
+
+                    p {
+                        font-family: 'Playpen Sans', cursive;
+                        position: relative;
+                        bottom: 30px;
+                        color: #263d5a;
+                        font-size: 1rem;
+                    }
+
+                    button {
+                        background-color: #a148ff !important;
+                        background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+                        border: none;
+                        transition: all 0.3s;
+                        height: 70px;
+                        width: 200px;
+                        border: none;
+                        border-radius: 40px;
+                        font-size: 20px;
+                        font-family: 'Playpen Sans', cursive;
+                        color: white;
+
+                    }
+
+                }
+            }
+
+        }
+    }
+}
+
+@media screen and (min-width:767px) and (max-width:1400px) {
+    section {
+        height: 1200px;
+        width: 100%;
+
+        .container {
+            .con1 {
+                height: 1200px;
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+
+                .div1 {
+                    h1 {
+                        font-size: 50px;
+                        position: relative;
+                        bottom: 40px;
+                    }
+
+                    h3 {
+                        font-size: 90px;
+                    }
+
+                    width:100%;
+                    text-align: start;
+                    display: flex;
+                    align-items: flex-start;
+
+                }
+
+                .div2 {
+                    display: flex;
+                    align-items: flex-start;
+                    flex-direction: column;
+                    width: 100%;
+                    height: 900px;
+                    gap: 20px;
+
+                    .a {
+                        width: 70%;
+                        height: 300px;
+                    }
+
+                    .b {
+                        height: 300px;
+                        width: 70%;
+                    }
+
+                    .c {
+                        height: 300px;
+                        width: 70%;
+
+                    }
+                }
+            }
+        }
+    }
+
+}
+
+@media screen and (min-width:319px) and (max-width:768px) {
+    section {
+        height: 1300px;
+        width: 100%;
+
+        .container {
+            .con1 {
+                height: 1300px;
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+
+                .div1 {
+                    h1 {
+                        font-size: 30px;
+                        position: relative;
+                        bottom: 20px;
+                    }
+
+                    h3 {
+                        font-size: 40px;
+                    }
+
+                    width:100%;
+                    text-align: start;
+                    display: flex;
+                    align-items: flex-start;
+
+                }
+
+                .div2 {
+                    display: flex;
+                    align-items: flex-start;
+                    flex-direction: column;
+                    width: 100%;
+                    height: 1100px;
+                    gap: 20px;
+
+                    .a {
+                        width: 100%;
+                        height: 350px;
+                    }
+
+                    .b {
+                        height: 350px;
+                        width: 100%;
+                    }
+
+                    .c {
+                        height: 350px;
+                        width: 100%;
+
+                    }
+                }
+            }
+        }
+    }
+
+}
